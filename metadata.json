@@ -1,0 +1,8 @@
+{
+  "name": "Remix Clean Energy Transition Explorer",
+  "description": "Interactive 3D landscape exploring renewable energy sites including solar farm, wind turbines, hydroelectric dam, and conventional power plant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
